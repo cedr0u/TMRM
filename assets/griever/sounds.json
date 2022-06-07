@@ -1,0 +1,29 @@
+{
+  "bruit_de_pas": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "griever:bruit_de_pas_griever_cicic27",
+        "stream": false
+      }
+    ]
+  },
+  "bruit_degat": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "griever:cri_du_griffeur_quand_il_a_mal",
+        "stream": false
+      }
+    ]
+  },
+  "bruit_mort": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "griever:cri_quand_il_meurt_griever",
+        "stream": false
+      }
+    ]
+  }
+}
