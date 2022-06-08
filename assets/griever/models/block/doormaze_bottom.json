@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom",
+  "textures": {
+    "bottom": "griever:blocks/door",
+    "top": "griever:blocks/door"
+  }
+}

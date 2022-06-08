@@ -1,10 +1,14 @@
 {
+  "block.griever.doormaze": "Door",
+  "item.griever.projectile": "Projectile",
+  "subtitles.bruit_de_pas": "",
+  "entity.griever.grieverkey": "Griever",
+  "itemGroup.tabmazerunner_tab": "Maze Runner",
   "item.griever.griever_spawn_egg": "Griever Spawn Egg",
   "subtitles.bruit_degat": "",
-  "item.griever.projectile": "Projectile",
   "item.griever.projectileitem": "Projectileitem",
-  "subtitles.bruit_de_pas": "",
-  "itemGroup.tabmazerunner_tab": "Maze Runner",
   "entity.griever.griever": "Griever",
+  "item.griever.key": "Key",
+  "item.griever.grieverkey_spawn_egg": "Griever Spawn Egg",
   "subtitles.bruit_mort": ""
 }
